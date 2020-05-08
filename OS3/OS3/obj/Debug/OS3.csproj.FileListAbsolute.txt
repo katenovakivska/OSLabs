@@ -1,0 +1,10 @@
+C:\Users\Katya\source\repos\OS3\OS3\bin\Debug\OS3.exe.config
+C:\Users\Katya\source\repos\OS3\OS3\bin\Debug\OS3.exe
+C:\Users\Katya\source\repos\OS3\OS3\bin\Debug\OS3.pdb
+C:\Users\Katya\source\repos\OS3\OS3\obj\Debug\OS3.csprojAssemblyReference.cache
+C:\Users\Katya\source\repos\OS3\OS3\obj\Debug\OS3.Charts.resources
+C:\Users\Katya\source\repos\OS3\OS3\obj\Debug\OS3.Properties.Resources.resources
+C:\Users\Katya\source\repos\OS3\OS3\obj\Debug\OS3.csproj.GenerateResource.cache
+C:\Users\Katya\source\repos\OS3\OS3\obj\Debug\OS3.csproj.CoreCompileInputs.cache
+C:\Users\Katya\source\repos\OS3\OS3\obj\Debug\OS3.exe
+C:\Users\Katya\source\repos\OS3\OS3\obj\Debug\OS3.pdb
