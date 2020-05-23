@@ -1,0 +1,7 @@
+C:\Users\Katya\source\repos\OS6\OS6\bin\Debug\OS6.exe.config
+C:\Users\Katya\source\repos\OS6\OS6\bin\Debug\OS6.exe
+C:\Users\Katya\source\repos\OS6\OS6\bin\Debug\OS6.pdb
+C:\Users\Katya\source\repos\OS6\OS6\obj\Debug\OS6.csprojAssemblyReference.cache
+C:\Users\Katya\source\repos\OS6\OS6\obj\Debug\OS6.csproj.CoreCompileInputs.cache
+C:\Users\Katya\source\repos\OS6\OS6\obj\Debug\OS6.exe
+C:\Users\Katya\source\repos\OS6\OS6\obj\Debug\OS6.pdb
