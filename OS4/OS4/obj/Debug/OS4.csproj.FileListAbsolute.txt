@@ -1,0 +1,7 @@
+C:\Users\Katya\source\repos\OS4\OS4\bin\Debug\OS4.exe.config
+C:\Users\Katya\source\repos\OS4\OS4\bin\Debug\OS4.exe
+C:\Users\Katya\source\repos\OS4\OS4\bin\Debug\OS4.pdb
+C:\Users\Katya\source\repos\OS4\OS4\obj\Debug\OS4.csprojAssemblyReference.cache
+C:\Users\Katya\source\repos\OS4\OS4\obj\Debug\OS4.csproj.CoreCompileInputs.cache
+C:\Users\Katya\source\repos\OS4\OS4\obj\Debug\OS4.exe
+C:\Users\Katya\source\repos\OS4\OS4\obj\Debug\OS4.pdb
